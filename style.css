@@ -12,9 +12,10 @@ body a:hover {
   font-size: 105%;
 }
 
-@media screen and (max-width:1024px) {
+@media screen and (max-width:px) {
 body{
-  font-size: 300%;
+  font-size: 150%;
+  display: block;
 }
 body a {
   color: #fff;
