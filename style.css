@@ -11,7 +11,9 @@ body a:hover {
   text-decoration: underline;
   font-size: 105%;
 }
-
+main {
+  text-align: center;
+}
 @media screen and (max-width:1279px) {
 body{
   font-size: 150%;
