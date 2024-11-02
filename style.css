@@ -1,2 +1,6 @@
-*{font-family: Osaka, 'ＭＳ Ｐゴシック',Verdana,Arial,sans-serif;}
-body{background: #6fb9ff;}
+body{
+  background: #6fb9ff;
+  color: #fff;
+  text-align: center;
+  font-family: Osaka, 'ＭＳ Ｐゴシック',Verdana,Arial,sans-serif;
+}
