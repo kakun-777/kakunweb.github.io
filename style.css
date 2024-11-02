@@ -2,7 +2,6 @@ body{
   background: #6fb9ff;
   color: #fff;
   font-family: Arial;
-  font-weight: 150;
 }
 body a {
   color: #fff;
@@ -11,5 +10,17 @@ body a {
 body a:hover {
   text-decoration: underline;
   font-size: 105%;
-  font-weight: 600;
+}
+
+@media screen and (max-width:480px) {
+body{
+  font-size: 300%;
+}
+body a {
+  color: #fff;
+  text-decoration: none;
+}
+body a:hover {
+  font-width: 100;
+}
 }
