@@ -1,6 +1,13 @@
 body{
   background: #6fb9ff;
   color: #fff;
-  text-align: center;
   font-family: Osaka, 'ＭＳ Ｐゴシック',Verdana,Arial,sans-serif;
+}
+body a {
+  color: #fff;
+  text-decoration: none;
+}
+body a:hover {
+  text-decoration: underline;
+  font-size: 125%;
 }
