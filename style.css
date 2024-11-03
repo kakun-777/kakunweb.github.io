@@ -2,6 +2,7 @@ body{
   background: #6fb9ff;
   color: #fff;
   font-family: Arial;
+  text-align: center;
 }
 body a {
   color: #fff;
@@ -11,33 +12,9 @@ body a:hover {
   text-decoration: underline;
   font-size: 105%;
 }
-header {
-　text-align: center;
-}
-main {
-　text-align: center;
-}
-fooder {
-　text-align: center;
-}
-nssp {
-  display: none;
-}
 @media screen and (max-width:1279px) {
-nssp {
-  display: block;
-  background-color: #ffff00;
-  color: #ff0000;
-}
 body{
   font-size: 150%;
   display: block;
-}
-body a {
-  color: #fff;
-  text-decoration: none;
-}
-body a:hover {
-  font-width: 100;
 }
 }
