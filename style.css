@@ -20,7 +20,15 @@ main {
 fooder {
 　text-align: center;
 }
+nssp {
+  display: none;
+}
 @media screen and (max-width:1279px) {
+nssp {
+  display: block;
+  background-color: #ffff00;
+  color: #ff0000;
+}
 body{
   font-size: 150%;
   display: block;
