@@ -15,7 +15,10 @@ main {
   display: block;
   text-align: center;
 }
-
+fooder {
+  display: block;
+  text-align: center;
+}
 @media screen and (max-width:1279px) {
 body{
   font-size: 150%;
