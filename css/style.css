@@ -1,0 +1,20 @@
+body{
+  background: #6fb9ff;
+  color: #fff;
+  font-family: Arial;
+  text-align: center;
+}
+body a {
+  color: #fff;
+  text-decoration: none;
+}
+body a:hover {
+  text-decoration: underline;
+  font-size: 105%;
+}
+@media screen and (max-width:1279px) {
+body{
+  font-size: 150%;
+  display: block;
+}
+}
